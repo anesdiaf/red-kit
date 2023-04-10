@@ -6,7 +6,7 @@
       "category": "JavaScript Frameworks and Libraries",
       "image": "https://cdn.hackr.io/uploads/posts/large/161175967406RO1KzIlz.png",
       "description": "In this post, we'll introduce you to 10 essential JavaScript libraries for web development. From React to D3.js, these libraries can help you build better, more interactive web applications.",
-      "author": "Jane Doe",
+      "author": "Anes Diaf",
       "createdAt": "2022-01-01T10:00:00Z",
       "reactions": {
         "thumbsup": 0,
@@ -22,7 +22,7 @@
       "category": "JavaScript Testing and Debugging",
       "image": "https://www.cronj.com/blog/wp-content/uploads/JavaScript-Debugging-Techniques-.png",
       "description": "In this post, we'll share some tips and tricks for debugging JavaScript code like a pro. From using console.log to setting breakpoints in your code, these techniques can help you track down and fix bugs more quickly.",
-      "author": "John Smith",
+      "author": "Jaber Diaf",
       "createdAt": "2022-02-15T14:30:00Z",
       "reactions": {
         "thumbsup": 0,
@@ -38,7 +38,7 @@
       "category": "JavaScript Performance Optimization",
       "image": "https://www.peerbits.com/static/a658bf37d3455d9dbe744fdddf777c2e/0a779/tips-for-improve-javascript-main.png",
       "description": "In this post, we'll explore five common JavaScript performance issues that can slow down your web application. From excessive DOM manipulation to inefficient data processing, we'll provide tips and tricks for fixing these issues and improving your app's performance.",
-      "author": "Emily Chen",
+      "author": "Khaled Diaf",
       "createdAt": "2022-03-22T09:45:00Z",
       "reactions": {
         "thumbsup": 0,
@@ -54,7 +54,7 @@
       "category": "Back-End Development with JavaScript",
       "image": "https://nordicapis.com/wp-content/uploads/Building-a-RESTful-API-Using-Node.JS-and-MongoDB.png",
       "description": "In this post, we'll walk you through the process of building a RESTful API with Node.js and the Express framework. We'll cover everything from setting up your project to handling HTTP requests and responses.",
-      "author": "David Nguyen",
+      "author": "Anes Diaf",
       "createdAt": "2022-04-12T11:15:00Z",
       "reactions": {
         "thumbsup": 0,
@@ -70,7 +70,7 @@
       "category": "JavaScript Best Practices and Design Patterns",
       "image": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1264509/comprehensive-guide-javascript-design-patterns-cf0c7c0e69d51d97044a8431da9175e3.png",
       "description": "In this post, we'll introduce you to some of the most common design patterns used in JavaScript development. From the Module pattern to the Observer pattern, these techniques can help you write cleaner, more maintainable code.",
-      "author": "Maria Rodriguez",
+      "author": "Anes Diaf",
       "createdAt": "2022-05-05T16:00:00Z",
       "reactions": {
         "thumbsup": 0,
@@ -79,6 +79,33 @@
         "rocket": 0,
         "coffee": 0
       }
+    }
+  ],
+  "categories": [
+    "JavaScript Fundamentals",
+    "Front-End Development with JavaScript",
+    "Back-End Development with JavaScript",
+    "JavaScript Frameworks and Libraries",
+    "JavaScript Tools and Utilities",
+    "JavaScript Testing and Debugging",
+    "JavaScript Best Practices and Design Patterns",
+    "JavaScript Performance Optimization"
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Anes Diaf",
+      "profile_pic": "https://images.unsplash.com/photo-1680866106821-0ad2f2871780?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1NXx8fGVufDB8fHx8&auto=format&fit=crop&w=240&q=100"
+    },
+    {
+      "id": 2,
+      "name": "Khaled Diaf",
+      "profile_pic": "https://plus.unsplash.com/premium_photo-1680546332052-61f642670647?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=240&q=100"
+    },
+    {
+      "id": 3,
+      "name": "Jaber Diaf",
+      "profile_pic": "https://images.unsplash.com/photo-1667328154631-1fd7966cbd1e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2400&q=100"
     }
   ]
 }
